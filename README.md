@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Photo Organizer Banner" style="width:100%">
+  <img src="assets/1-cover/cover.png" alt="Photo Organizer Banner" style="width:100%">
 </p>
 
 <div align="center">
